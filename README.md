@@ -20,8 +20,8 @@ In our work as *Product Engineers*, we have come to value:
 - **Asking why** to understand the customer problem before diving into code
 - **Continuous delivery of working software** over promises and estimations
 - **Customer collaboration and feedback** over tickets and second-hand knowledge
-- **Teamwork and communication** over assigning tasks and working in isolation
-- **Using the product** instead of relying on others to test our software for us
+- **Teamwork and communication** over picking up tasks and working in isolation
+- **Using the product ourselves** instead of relying on others to test our software for us
 
 ## Signatures
 
