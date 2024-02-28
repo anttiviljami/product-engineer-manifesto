@@ -17,11 +17,12 @@ limit ourselves to technical-only roles in our teams.
 
 In our work as *Product Engineers*, we have come to value:
 
-- **Asking why** to understand the customer problem before diving into code
 - **Continuous delivery of working software** over promises and estimations
+- **Asking why** to deeply understand the customer problem before diving into code
 - **Customer collaboration and feedback** over tickets and second-hand knowledge
 - **Teamwork and communication** over picking up tasks and working in isolation
-- **Using the product ourselves** instead of relying on others to test our software for us
+- **Using the product ourselves** over relying on others to test our software
+- **Strategic thinking** and understanding the market and business domains you're operating in
 
 ## Signatures
 
