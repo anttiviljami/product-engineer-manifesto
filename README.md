@@ -8,7 +8,7 @@ Our craft combines *Product Thinking* with technical execution.
 
 We concern ourselves with matters of design and quality in the technical,
 aesthetic, and business domains, taking an active part in each to shape the
-product and the team around it.
+product and empower others to do the same.
 
 We take immense professional pride in our products as a whole and refuse to
 limit ourselves to technical-only roles in our teams.
@@ -22,7 +22,7 @@ In our work as *Product Engineers*, we have come to value:
 - **Customer collaboration and feedback** over tickets and second-hand knowledge
 - **Teamwork and communication** over picking up tasks and working in isolation
 - **Using the product ourselves** over relying on others to test our software
-- **Strategic thinking** and understanding the market you're operating in
+- **Strategic thinking** and understanding the market and context you're operating in
 
 ## Signatures
 
