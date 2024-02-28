@@ -22,7 +22,7 @@ In our work as *Product Engineers*, we have come to value:
 - **Customer collaboration and feedback** over tickets and second-hand knowledge
 - **Teamwork and communication** over picking up tasks and working in isolation
 - **Using the product ourselves** over relying on others to test our software
-- **Strategic thinking** and understanding the market and business domains you're operating in
+- **Strategic thinking** and understanding the market you're operating in
 
 ## Signatures
 
