@@ -2,7 +2,7 @@
 <h1>Product Engineer Manifesto</h1>
 </div>
 
-We consider ourselves *Builders* first, Software Engineers second.
+We consider ourselves *Builders* first, software engineers second.
 
 Our craft combines *Product Thinking* with technical execution.
 
@@ -23,11 +23,11 @@ In our work as *Product Engineers*, we have come to value:
 - **Teamwork and communication** over assigning tasks and working in isolation
 - **Using the product** instead of relying on others to test our software for us
 
-## Product Engineer Stars
+## Signatures
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/anttiviljami/product-engineer-manifesto?style=social)](https://github.com/anttiviljami/product-engineer-manifesto/stargazers)
 
 [![Stargazers](https://reporoster.com/stars/anttiviljami/product-engineer-manifesto)](https://github.com/anttiviljami/product-engineer-manifesto/stargazers)
 
-Star this repository to show your support for the Product Engineer way!
+Star this repository to show your support for the Product Engineer Manifesto above!
 
