@@ -4,7 +4,7 @@
 
 We consider ourselves *Builders* first, Software Engineers second.
 
-Our craft combines *product thinking* with high-quality technical execution.
+Our craft combines *Product Thinking* with technical execution.
 
 We concern ourselves with matters of design and quality in the technical,
 aesthetic, and business domains, taking an active part in each to shape the
