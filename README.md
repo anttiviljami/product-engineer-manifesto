@@ -2,8 +2,6 @@
 <h1>Product Engineer Manifesto</h1>
 </div>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/anttiviljami/product-engineer-manifesto?style=social)](https://github.com/anttiviljami/product-engineer-manifesto/stargazers)
-
 We consider ourselves *Builders* first, Software Engineers second.
 
 Our craft combines *Product Thinking* with technical execution.
@@ -26,6 +24,8 @@ In our work as *Product Engineers*, we have come to value:
 - **Using the product** instead of relying on others to test our software for us
 
 ## Product Engineer Stars
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/anttiviljami/product-engineer-manifesto?style=social)](https://github.com/anttiviljami/product-engineer-manifesto/stargazers)
 
 [![Stargazers](https://reporoster.com/stars/anttiviljami/product-engineer-manifesto)](https://github.com/anttiviljami/product-engineer-manifesto/stargazers)
 
