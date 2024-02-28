@@ -8,7 +8,7 @@ Our craft combines *Product Thinking* with technical execution.
 
 We concern ourselves with matters of design and quality in the technical,
 aesthetic, and business domains, taking an active part in each to shape the
-product.
+product and the team around it.
 
 We take immense professional pride in our products as a whole and refuse to
 limit ourselves to technical-only roles in our teams.
