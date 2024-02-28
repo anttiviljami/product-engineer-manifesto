@@ -1,19 +1,22 @@
-# Product Engineer Manifesto
+<div align="center">
+<h1>Product Engineer Manifesto</h1>
+</div>
 
-We are *Builders* first, *Software Engineers* second.
+We consider ourselves *Builders* first, Software Engineers second.
 
-Our craft combines product thinking with technical execution.
+Our craft combines *product thinking* with high-quality technical execution.
 
-We concern ourselves with matters of quality and design in the technical,
-aesthetic, and business domains.
+We concern ourselves with matters of design and quality in the technical,
+aesthetic, and business domains, taking an active part in each to shape the
+product.
 
-We take professional pride in the products we build as a whole and refuse to
-limit ourselves to technical-only roles in our teams.
+We take immense professional pride in our products as a whole and refuse to
+limit ourselves to taking a technical-only role in our teams.
 
 In our work as *Product Engineers*, we have come to value:
 
 - **Continuous delivery of working software** over promises and estimations
 - **Customer collaboration and feedback** over tickets and second-hand knowledge
-- **Teamwork and communication** over working in isolation
+- **Teamwork and communication** over assigning tasks and working in isolation
 - **Simplicity and quality** over cutting corners or over-engineering
 
