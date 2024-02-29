@@ -10,7 +10,7 @@ We concern ourselves with matters of design and quality in the technical,
 aesthetic, and business domains, taking an active part in each to shape the
 product and empower others to do the same.
 
-We take immense professional pride in our products as a whole and refuse to
+We take great professional pride in our products as a whole and refuse to
 limit ourselves to technical-only roles in our teams.
 
 Our shared goal is simply to build great products, and recognize that achieving
