@@ -27,6 +27,11 @@ In our work as *Product Engineers*, we have come to value:
 - **Using the product ourselves** over relying on others to test our software
 - **Strategic thinking** and understanding the market and context you're operating in
 
+## Philosophy
+
+Read the accompanying post [What is a Product Engineer? by @anttiviljami](https://dev.to/epilot/what-is-a-product-engineer-1kpg)
+for an expanded view on the thinking behind the above manifesto.
+
 ## Signatures
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/anttiviljami/product-engineer-manifesto?style=social)](https://github.com/anttiviljami/product-engineer-manifesto/stargazers)
