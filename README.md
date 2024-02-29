@@ -2,7 +2,7 @@
 <h1>Product Engineer Manifesto</h1>
 </div>
 
-We consider ourselves *Builders* first, software engineers second.
+We see ourselves first and foremost as Builders, with a strong foundation in software engineering.
 
 Our craft combines *Product Thinking* with technical execution.
 
@@ -10,11 +10,11 @@ We concern ourselves with matters of design and quality in the technical,
 aesthetic, and business domains, taking an active part in each to shape the
 product and empower others to do the same.
 
-We take immense professional pride in our products as a whole and refuse to
-limit ourselves to technical-only roles in our teams.
+We are deeply committed to the products we help create,
+embracing a broader role beyond just technical contributions within our teams.
 
-Our shared goal is simply to build great products, and recognize that achieving
-this requires builders who deeply understand the customer's needs.
+Our collective aspiration is to create outstanding products. We believe that to achieve this,
+it's essential to have builders on the team who are in tune with our customers' needs and dedicated to meeting them.
 
 ## The Product Engineer Mindset
 
