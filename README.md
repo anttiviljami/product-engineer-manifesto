@@ -13,6 +13,9 @@ product and empower others to do the same.
 We take immense professional pride in our products as a whole and refuse to
 limit ourselves to technical-only roles in our teams.
 
+Our shared goal is simply to build great products, and recognize that achieving
+this requires builders who deeply understand the customer's needs.
+
 ## The Product Engineer Mindset
 
 In our work as *Product Engineers*, we have come to value:
