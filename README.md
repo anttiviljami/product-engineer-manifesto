@@ -27,10 +27,11 @@ In our work as *Product Engineers*, we have come to value:
 - **Using the product ourselves** over relying on others to test our software
 - **Strategic thinking** and understanding the market and context you're operating in
 
-## Philosophy
+## References
 
-Read the accompanying post [What is a Product Engineer? by @anttiviljami](https://dev.to/epilot/what-is-a-product-engineer-1kpg)
-for an expanded view on the thinking behind the above manifesto.
+- [What is a Product Engineer? by @anttiviljami](https://dev.to/epilot/what-is-a-product-engineer-1kpg)
+- [The Product-Minded Software Engineer by Gergely Orosz (Pragmatic Engineer)](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+- [Product engineers by Sherif Mansour (Atlassian)](https://sherifmansour.medium.com/product-engineers-f424da766871)
 
 ## Signatures
 
