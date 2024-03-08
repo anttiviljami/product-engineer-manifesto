@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://productengineer.org"><h1>Product Engineer Manifesto</h1></a>
+<a href="https://productengineer.org" target="_blank"><h1>Product Engineer Manifesto</h1></a>
 </div>
 
 We consider ourselves *Builders* first, software engineers second.
