@@ -43,4 +43,3 @@ Posts written by various people about the Product Engineer role:
 [![Stargazers](https://reporoster.com/stars/anttiviljami/product-engineer-manifesto)](https://github.com/anttiviljami/product-engineer-manifesto/stargazers)
 
 Star this repository to show your support for the Product Engineer Manifesto above!
-

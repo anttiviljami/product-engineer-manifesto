@@ -1,0 +1,22 @@
+{
+  "name": "product-engineer-manifesto",
+  "description": "productengineer.org",
+  "private": true,
+  "license": "MIT",
+  "author": "Viljami Kuosmanen <viljami@viljami.io>",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "pnpm run \"/^watch:.*/\"",
+    "watch:start": "vite",
+    "watch:tailwind": "nodemon --exec \"pnpm run tailwind\" -w index.html -w tailwind.config.js",
+    "tailwind": "npx tailwindcss -o main.css --minify"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.18",
+    "nodemon": "^3.1.0",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.4"
+  }
+}
