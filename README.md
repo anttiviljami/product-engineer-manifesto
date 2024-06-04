@@ -27,6 +27,10 @@ In our work as *Product Engineers*, we have come to value:
 - **Using the product ourselves** over relying on others to test our software
 - **Strategic thinking** and understanding the market and context you're operating in
 
+## The Product Engineer Checklist
+
+[How to think like a Product Engineer (link)](https://dev.to/epilot/the-product-engineer-checklist-469d)
+
 ## Sources
 
 Posts written by various people about the Product Engineer role:
