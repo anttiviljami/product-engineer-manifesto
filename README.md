@@ -29,7 +29,7 @@ In our work as *Product Engineers*, we have come to value:
 
 ## The Product Engineer Checklist
 
-[How to think like a Product Engineer (link)](https://dev.to/epilot/the-product-engineer-checklist-469d)
+[How to think like a Product Engineer (dev.to)](https://dev.to/epilot/the-product-engineer-checklist-469d)
 
 ## Sources
 
