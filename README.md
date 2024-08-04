@@ -1,9 +1,13 @@
 <div align="center">
 <h1>Product Engineer Manifesto</h1>
-</div>
 
-[![Product Engineer Checklist (PDF)](https://img.shields.io/badge/pdf-download-blue)](https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2024-08)
-[![GitHub License](https://img.shields.io/github/license/anttiviljami/product-engineer-manifesto)](https://github.com/anttiviljami/product-engineer-manifesto/blob/main/LICENSE)
+<a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2024-08" target="_blank">
+  <img src="https://img.shields.io/badge/pdf-download-blue" />
+</a>
+<a href="https://github.com/anttiviljami/product-engineer-manifesto/blob/main/LICENSE" target="_blank">
+  <img src="https://img.shields.io/github/license/anttiviljami/product-engineer-manifesto" />
+</a>
+</div>
 
 We consider ourselves *Builders* first, software engineers second.
 
