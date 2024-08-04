@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/pdf-download-blue" />
 </a>
 <a href="https://github.com/anttiviljami/product-engineer-manifesto/blob/main/LICENSE" target="_blank">
-  <img src="https://img.shields.io/github/license/anttiviljami/product-engineer-manifesto" />
+  <img src="http://img.shields.io/:license-mit-blue.svg" />
 </a>
 </div>
 
