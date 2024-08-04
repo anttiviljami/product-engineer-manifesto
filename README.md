@@ -3,6 +3,7 @@
 </div>
 
 [![Product Engineer Checklist (PDF)](https://img.shields.io/badge/pdf-download-blue)](https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2024-08)
+[![GitHub License](https://img.shields.io/github/license/anttiviljami/product-engineer-manifesto)](https://github.com/anttiviljami/product-engineer-manifesto/blob/main/LICENSE)
 
 We consider ourselves *Builders* first, software engineers second.
 
