@@ -4,6 +4,8 @@
 <a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2024-08" target="_blank">
   <img src="https://img.shields.io/badge/pdf-download-blue" />
 </a>
+
+<div>&nbsp;</div>
 </div>
 
 We consider ourselves *Builders* first, software engineers second.
