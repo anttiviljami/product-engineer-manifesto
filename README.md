@@ -2,6 +2,8 @@
 <h1>Product Engineer Manifesto</h1>
 </div>
 
+[![Product Engineer Checklist (PDF)](https://img.shields.io/badge/pdf-download-blue)](https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2024-08)
+
 We consider ourselves *Builders* first, software engineers second.
 
 Our craft combines *Product Thinking* with technical execution.
