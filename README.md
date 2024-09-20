@@ -1,16 +1,16 @@
 <div align="center">
 <h1>Product Engineer Manifesto</h1>
 
-<a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2024-08" target="_blank">
+<a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2024-09" target="_blank">
   <img src="https://img.shields.io/badge/pdf-download-blue" />
 </a>
 
 <div>&nbsp;</div>
 </div>
 
-We consider ourselves *Builders* first, software engineers second.
+We consider ourselves _Builders_ first, software engineers second.
 
-Our craft combines *Product Thinking* with technical execution.
+Our craft combines _Product Thinking_ with technical execution.
 
 We concern ourselves with matters of design and quality in the technical,
 aesthetic, and business domains, taking an active part in each to shape the
@@ -24,7 +24,7 @@ this requires builders who deeply understand the customer's needs.
 
 ## The Product Engineer Mindset
 
-In our work as *Product Engineers*, we have come to value:
+In our work as _Product Engineers_, we have come to value:
 
 - **Continuous delivery of working software** over promises and estimations
 - **Asking why** to deeply understand the customer problem before diving into code
