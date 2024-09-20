@@ -37,6 +37,8 @@ In our work as _Product Engineers_, we have come to value:
 
 [How to think like a Product Engineer (PDF)](https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf)
 
+[Edit on Canva](https://www.canva.com/design/DAGJPOcuJpQ/h_M8ygUIFYRiTUAkZ7xMBg/edit?utm_content=DAGJPOcuJpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Sources & Inspiration
 
 Posts written by various people about the Product Engineer role:
