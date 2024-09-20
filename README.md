@@ -37,12 +37,13 @@ In our work as _Product Engineers_, we have come to value:
 
 [How to think like a Product Engineer (PDF)](https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf)
 
-## Sources
+## Sources & Inspiration
 
 Posts written by various people about the Product Engineer role:
 
 - [What is a Product Engineer? by Viljami Kuosmanen (@anttiviljami)](https://dev.to/epilot/what-is-a-product-engineer-1kpg)
 - [The Product-Minded Software Engineer by Gergely Orosz (Pragmatic Engineer)](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+- [How to Become a Product Engineer 🎨 by Luca Rossi and Rasmus Makwarth](https://hybridhacker.email/p/how-to-become-a-product-engineer)
 - [Product engineers by Sherif Mansour (Atlassian)](https://sherifmansour.medium.com/product-engineers-f424da766871)
 - [From Code Monkey to Product Engineer by Saranga Buwaneka](https://saranga.dev/from-code-monkey-to-product-engineer-the-evolution-of-software-engineering-in-the-age-of-llms-3c79a508464d)
 
