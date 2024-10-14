@@ -48,7 +48,7 @@ Posts written by various people about the Product Engineer role:
 - [How to Become a Product Engineer 🎨 by Luca Rossi and Rasmus Makwarth](https://hybridhacker.email/p/how-to-become-a-product-engineer)
 - [Product engineers by Sherif Mansour (Atlassian)](https://sherifmansour.medium.com/product-engineers-f424da766871)
 - [From Code Monkey to Product Engineer by Saranga Buwaneka](https://saranga.dev/from-code-monkey-to-product-engineer-the-evolution-of-software-engineering-in-the-age-of-llms-3c79a508464d)
-- [Are Product Engineers Replacing Software Engineers? by Ryan Murphy](https://thesoftwareengineeringtimes.substack.com/p/are-product-engineers-replacing-software)
+- [Are Product Engineers Replacing Software Engineers? by Peter White (@peterwhite)](https://thesoftwareengineeringtimes.substack.com/p/are-product-engineers-replacing-software)
 - [The Product Engineer Era by Nahuel Alberti (@NAlberti7)](https://www.paisanos.io/blog/the-product-engineer-era)
 
 ## Signatures
