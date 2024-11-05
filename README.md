@@ -50,6 +50,8 @@ Posts written by various people about the Product Engineer role:
 - [From Code Monkey to Product Engineer by Saranga Buwaneka](https://saranga.dev/from-code-monkey-to-product-engineer-the-evolution-of-software-engineering-in-the-age-of-llms-3c79a508464d)
 - [Are Product Engineers Replacing Software Engineers? by Peter White (@peterwhite)](https://thesoftwareengineeringtimes.substack.com/p/are-product-engineers-replacing-software)
 - [The Product Engineer Era by Nahuel Alberti (@NAlberti7)](https://www.paisanos.io/blog/the-product-engineer-era)
+- [What is a product engineer (and why they're awesome) by PostHog](https://posthog.com/blog/what-is-a-product-engineer)
+- [Product engineer vs product manager: What's the difference? by PostHog](https://posthog.com/blog/product-engineer-vs-product-manager)
 
 ## Signatures
 
