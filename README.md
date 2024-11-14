@@ -52,6 +52,7 @@ Posts written by various people about the Product Engineer role:
 - [The Product Engineer Era by Nahuel Alberti (@NAlberti7)](https://www.paisanos.io/blog/the-product-engineer-era)
 - [What is a product engineer (and why they're awesome) by PostHog](https://posthog.com/blog/what-is-a-product-engineer)
 - [Product engineer vs product manager: What's the difference? by PostHog](https://posthog.com/blog/product-engineer-vs-product-manager)
+- [Product Engineers by Lee Robinson](https://leerob.com/n/product-engineers)
 
 ## Signatures
 
