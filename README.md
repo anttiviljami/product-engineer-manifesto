@@ -8,30 +8,27 @@
 <div>&nbsp;</div>
 </div>
 
-We consider ourselves _Builders_ first, software engineers second.
+It is our responsibility as builders to first seek to understand the problem, before
+diving into solutions.
 
-Our craft combines _Product Thinking_ with technical execution.
+Our craft combines _Product Thinking_ with great technical execution.
 
-We concern ourselves with matters of design and quality in the technical,
-aesthetic, and business domains, taking an active part in each to shape the
-product and empower others to do the same.
+We concern ourselves with design, technical, and business domains;
+taking an active part in each to shape the product and empower others to do the same.
 
-We take great professional pride in our products as a whole and refuse to
+We take great professional pride in the products we ship and refuse to
 limit ourselves to technical-only roles in our teams.
-
-Our shared goal is simply to build great products, and recognize that achieving
-this requires builders who deeply understand the customer's needs.
 
 ## The Product Engineer Mindset
 
 In our work as _Product Engineers_, we have come to value:
 
 - **Continuous delivery of working software** over promises and estimations
-- **Asking why** to deeply understand the customer problem before diving into code
+- **Asking why** to understand the customer problem before diving into code
 - **Customer collaboration and feedback** over tickets and second-hand knowledge
 - **Teamwork and communication** over picking up tasks and working in isolation
-- **Using the product ourselves** over relying on others to test our software
-- **Strategic thinking** and understanding the market and context you're operating in
+- **Testing the product ourselves** over relying on others (especially our users) to find issues
+- **Domain knowledge and ownership** over outsourcing strategic thinking to someone else
 
 ## The Product Engineer Checklist
 
