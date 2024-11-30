@@ -11,10 +11,10 @@
 It is our responsibility as builders to first seek to understand the problem, before
 diving into solutions.
 
-Our craft combines _Product Thinking_ with great technical execution.
-
 We concern ourselves with design, technical, and business domains;
 taking an active part in each to shape the product and empower others to do the same.
+
+Our craft combines _Product Thinking_ with great technical execution.
 
 We take great professional pride in the products we ship and refuse to
 limit ourselves to technical-only roles in our teams.
