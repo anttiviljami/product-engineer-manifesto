@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Product Engineer Manifesto</h1>
 
-<a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-01" target="_blank">
+<a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-04" target="_blank">
   <img src="https://img.shields.io/badge/pdf-download-blue" />
 </a>
 
@@ -50,6 +50,7 @@ Posts written by various people about the Product Engineer role:
 - [What is a product engineer (and why they're awesome) by PostHog](https://posthog.com/blog/what-is-a-product-engineer)
 - [Product engineer vs product manager: What's the difference? by PostHog](https://posthog.com/blog/product-engineer-vs-product-manager)
 - [Product Engineers by Lee Robinson](https://leerob.com/n/product-engineers)
+- [Dealing With Pushback to Product Engineering by Viljami Kuosmanen (@anttiviljami)](https://dev.to/epilot/dealing-with-pushback-to-product-engineering-431o))
 
 ## Signatures
 
