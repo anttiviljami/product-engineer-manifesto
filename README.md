@@ -51,6 +51,7 @@ Posts written by various people about the Product Engineer role:
 - [Product engineer vs product manager: What's the difference? by PostHog](https://posthog.com/blog/product-engineer-vs-product-manager)
 - [Product Engineers by Lee Robinson](https://leerob.com/n/product-engineers)
 - [Dealing With Pushback to Product Engineering by Viljami Kuosmanen (@anttiviljami)](https://dev.to/epilot/dealing-with-pushback-to-product-engineering-431o))
+- [Asking Why Is Not Enough for Product Engineers by Kshitij Saxena](https://www.linkedin.com/pulse/asking-why-enough-product-engineers-especially-2025-kshitij-saxena-xt0zf)
 
 ## Signatures
 
