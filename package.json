@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "pnpm run \"/^watch:.*/\"",
     "watch:start": "vite",
-    "watch:tailwind": "nodemon --exec \"pnpm run tailwind\" -w index.html -w tailwind.config.js",
+    "watch:tailwind": "nodemon --exec \"pnpm run tailwind\" --ext js,json,html,css -w .",
     "build": "pnpm run tailwind",
     "tailwind": "npx tailwindcss -o main.css --minify"
   },
