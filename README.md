@@ -44,13 +44,13 @@ Posts written by various people about the Product Engineer role:
 - [The Product-Minded Software Engineer by Gergely Orosz (Pragmatic Engineer)](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [How to Become a Product Engineer 🎨 by Luca Rossi and Rasmus Makwarth](https://hybridhacker.email/p/how-to-become-a-product-engineer)
 - [Product engineers by Sherif Mansour (Atlassian)](https://sherifmansour.medium.com/product-engineers-f424da766871)
-- [From Code Monkey to Product Engineer by Saranga Buwaneka](https://saranga.dev/from-code-monkey-to-product-engineer-the-evolution-of-software-engineering-in-the-age-of-llms-3c79a508464d)
+- [From Code Monkey to Product Engineer by Saranga Buwaneka](https://saranga.dev/blog/codemonkey)
 - [Are Product Engineers Replacing Software Engineers? by Peter White (@peterwhite)](https://thesoftwareengineeringtimes.substack.com/p/are-product-engineers-replacing-software)
 - [The Product Engineer Era by Nahuel Alberti (@NAlberti7)](https://www.paisanos.io/blog/the-product-engineer-era)
 - [What is a product engineer (and why they're awesome) by PostHog](https://posthog.com/blog/what-is-a-product-engineer)
 - [Product engineer vs product manager: What's the difference? by PostHog](https://posthog.com/blog/product-engineer-vs-product-manager)
 - [Product Engineers by Lee Robinson](https://leerob.com/n/product-engineers)
-- [Dealing With Pushback to Product Engineering by Viljami Kuosmanen (@anttiviljami)](https://dev.to/epilot/dealing-with-pushback-to-product-engineering-431o))
+- [Dealing With Pushback to Product Engineering by Viljami Kuosmanen (@anttiviljami)](https://dev.to/epilot/dealing-with-pushback-to-product-engineering-431o)
 - [Asking Why Is Not Enough for Product Engineers by Kshitij Saxena](https://www.linkedin.com/pulse/asking-why-enough-product-engineers-especially-2025-kshitij-saxena-xt0zf)
 
 ## Signatures
