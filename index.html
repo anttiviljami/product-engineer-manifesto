@@ -37,7 +37,7 @@
               src="http://img.shields.io/:license-mit-blue.svg"
             />
           </a>
-          <a href="javascript:document.querySelector('dialog').showModal()">
+          <a href="javascript:openPdf()">
             <img
               class="inline-block"
               src="https://img.shields.io/badge/pdf-download-green"
@@ -121,7 +121,7 @@
         <li class="mb-6">
           <a
             class="text-blue-800 underline"
-            href="javascript:document.querySelector('dialog').showModal()"
+            href="javascript:openPdf()"
           >
             Product Engineer Checklist (PDF)
           </a>
@@ -172,40 +172,46 @@
         ✕
       </button>
 
-      <p class="text-gray-700 mb-2 font-bold">
-        The Product Engineer Checklist is a free PDF download. No email or personal details are collected.
+      <p class="text-gray-700 mb-4 font-bold">
+        The Product Engineer Checklist is a free e-book. Your PDF is ready in a <a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-04" target="_blank" class="underline">new tab</a>! 🎉
       </p>
       
-      <p class="text-gray-700 mb-4">
-        If you'd like to support this work, you can pay what you think is fair on <a href="https://github.com/sponsors/anttiviljami" target="_blank" class="text-blue-600 hover:text-blue-800 underline">GitHub Sponsors</a>.
+      <p class="text-gray-700 mb-6">
+        If this content has helped you, you can pay what you think is fair on <a href="https://github.com/sponsors/anttiviljami" target="_blank" class="text-blue-600 hover:text-blue-800 underline">GitHub Sponsors</a>.
       </p>
       
-      <div class="space-y-3 mb-4">
-        <div class="grid grid-cols-2 gap-2">
-          <a href="https://github.com/sponsors/anttiviljami?frequency=one-time&amount=1" target="_blank" class="border border-gray-300 hover:border-gray-400 bg-white text-gray-800 px-4 py-2 rounded font-medium transition-colors text-center no-underline">
-            Tip $1
+      <div class="space-y-3">
+        <div class="grid grid-cols-3 gap-2">
+          <a href="https://github.com/sponsors/anttiviljami?frequency=one-time&amount=1" target="_blank" class="border border-gray-300 hover:border-gray-400 bg-white text-gray-800 px-4 py-2 rounded font-medium transition-colors text-center no-underline flex flex-col justify-center">
+            Pay $1
           </a>
-          <a href="https://github.com/sponsors/anttiviljami?frequency=one-time&amount=5" target="_blank" class="border border-gray-300 hover:border-gray-400 bg-white text-gray-800 px-4 py-2 rounded font-medium transition-colors text-center no-underline">
-            Tip $5
+          <a href="https://github.com/sponsors/anttiviljami?frequency=one-time&amount=5" target="_blank" class="border-2 border-gray-900 hover:bg-gray-900 hover:text-white bg-white text-gray-900 px-4 py-2 rounded font-medium transition-colors text-center no-underline relative flex flex-col justify-center" autofocus>
+            Pay $5
+            <div class="text-xs text-gray-500">Suggested</div>
+          </a>
+          <a href="https://github.com/sponsors/anttiviljami?frequency=one-time&amount=25" target="_blank" class="border border-gray-300 hover:border-gray-400 bg-white text-gray-800 px-4 py-2 rounded font-medium transition-colors text-center no-underline flex flex-col justify-center">
+            Pay $25
           </a>
         </div>
-        <a href="https://github.com/sponsors/anttiviljami?frequency=one-time&amount=10" target="_blank" class="w-full border border-gray-300 hover:border-gray-400 bg-white text-gray-800 px-4 py-2 rounded font-medium transition-colors text-center no-underline block">
-          ❤️ Custom Amount
-        </a>
-      </div>
-      
-      <div class="flex gap-2">
-        <a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-04" target="_blank" onclick="document.querySelector('dialog').close()" class="flex-1 border-2 border-gray-900 hover:bg-gray-900 hover:text-white bg-white text-gray-900 px-4 py-2 rounded font-medium transition-colors text-center no-underline" autofocus>
-          No thanks, give me the PDF
+
+        <a href="https://github.com/sponsors/anttiviljami?frequency=one-time&amount=20" target="_blank" class="w-full border border-gray-300 hover:border-gray-400 bg-white text-gray-800 px-4 py-2 rounded font-medium transition-colors text-center no-underline block">
+          Custom Amount
         </a>
       </div>
       
       <p class="text-xs text-gray-500 mt-3 text-center">
-        No pressure — Always free. No email or data collected.
+        Always free. No email or personal data are collected.
       </p>
     </dialog>
     
     <script>
+      function openPdf() {
+        window.open('https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-04', '_blank');
+        
+        // Show dialog in background after a short delay
+        setTimeout(() => document.querySelector('dialog').showModal(), 100);
+      }
+
       // close the dialog when clicking outside
       document.querySelector('dialog').addEventListener('click', (e) => {
         if (e.target === e.currentTarget) {
