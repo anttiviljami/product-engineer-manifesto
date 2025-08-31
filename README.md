@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Product Engineer Manifesto</h1>
 
-<a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-04" target="_blank">
+<a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-08" target="_blank">
   <img src="https://img.shields.io/badge/pdf-download-blue" />
 </a>
 
