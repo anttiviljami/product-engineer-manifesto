@@ -37,7 +37,11 @@
               src="http://img.shields.io/:license-mit-blue.svg"
             />
           </a>
-          <a href="javascript:openPdf()">
+          <a 
+            href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-04"
+            target="_blank"
+            onclick="openPdf()"
+          >
             <img
               class="inline-block"
               src="https://img.shields.io/badge/pdf-download-green"
@@ -121,7 +125,9 @@
         <li class="mb-6">
           <a
             class="text-blue-800 underline"
-            href="javascript:openPdf()"
+            href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-04"
+            target="_blank"
+            onclick="openPdf()"
           >
             Product Engineer Checklist (PDF)
           </a>
@@ -205,11 +211,16 @@
     </dialog>
     
     <script>
+      // open pdf dialog
       function openPdf() {
-        window.open('https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-04', '_blank');
-        
-        // Show dialog in background after a short delay
-        setTimeout(() => document.querySelector('dialog').showModal(), 100);
+        localStorage.setItem('product-engineer-manifesto-pdf-downloaded', 'true');
+        document.querySelector('dialog').showModal();
+      }
+
+      // open dialog if the pdf was downloaded before
+      if (localStorage.getItem('product-engineer-manifesto-pdf-downloaded') === 'true') {
+        localStorage.removeItem('product-engineer-manifesto-pdf-downloaded');
+        document.querySelector('dialog').showModal();
       }
 
       // close the dialog when clicking outside
