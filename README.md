@@ -61,10 +61,6 @@ Posts written by various people about the Product Engineer role:
 
 Star this repository to show your support for the Product Engineer Manifesto above!
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=anttiviljami/product-engineer-manifesto&type=Date)](https://www.star-history.com/#anttiviljami/product-engineer-manifesto&Date)
-
 ## Website
 
 [productengineer.org](https://productengineer.org)
