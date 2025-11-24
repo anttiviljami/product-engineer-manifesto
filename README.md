@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Product Engineer Manifesto</h1>
 
-<a href="https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf?version=2025-08" target="_blank">
+<a href="https://productengineer.org/product-engineer-checklist.pdf?version=2025-08" target="_blank">
   <img src="https://img.shields.io/badge/pdf-download-blue" />
 </a>
 
@@ -32,7 +32,7 @@ In our work as _Product Engineers_, we have come to value:
 
 ## The Product Engineer Checklist
 
-[How to think like a Product Engineer (PDF)](https://productengineer-content.s3.eu-west-1.amazonaws.com/product-engineer-checklist.pdf)
+[How to think like a Product Engineer (PDF)](https://productengineer.org/product-engineer-checklist.pdf)
 
 ✏️ [Edit on Canva](https://www.canva.com/design/DAGJPOcuJpQ/h_M8ygUIFYRiTUAkZ7xMBg/edit?utm_content=DAGJPOcuJpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
