@@ -9,11 +9,16 @@
   "scripts": {
     "dev": "pnpm run \"/^watch:.*/\"",
     "watch:start": "vite",
-    "watch:tailwind": "nodemon --exec \"pnpm run tailwind\" --ext js,json,html,css -w .",
-    "build": "pnpm run tailwind",
+    "watch:pages": "nodemon --exec \"pnpm run pages\" --ext md,js,ejs --ignore main.css -w .",
+    "watch:tailwind": "nodemon --exec \"pnpm run tailwind\" --ext html,js,css --ignore main.css -w .",
+    "build": "pnpm run pages && pnpm run tailwind",
+    "pages": "node scripts/build.js",
     "tailwind": "npx tailwindcss -o main.css --minify"
   },
   "devDependencies": {
+    "ejs": "^6.0.1",
+    "gray-matter": "^4.0.3",
+    "marked": "^18.0.5",
     "nodemon": "^3.1.0",
     "tailwindcss": "^3.4.1",
     "vite": "^5.1.4"

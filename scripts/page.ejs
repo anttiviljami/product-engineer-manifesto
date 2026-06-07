@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title><%= title %></title>
+  <link rel="stylesheet" href="/main.css" />
+</head>
+
+<body class="bg-white text-gray-900 font-sans p-8">
+  <div class="mx-auto max-w-xl space-y-5 md:py-8">
+    <header class="mb-8 text-center">
+      <h1 class="text-3xl font-bold md:tracking-wide"><%= heading %></h1>
+    </header>
+
+    <article class="space-y-4">
+<%- content %>    </article>
+
+    <footer class="text-center pt-4">
+      <a class="opacity-75 hover:opacity-100" href="/">Back to Manifesto</a>
+    </footer>
+  </div>
+</body>
+</html>
