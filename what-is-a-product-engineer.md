@@ -19,7 +19,7 @@ We have frontend engineers, backend engineers, mobile engineers, DevOps engineer
 
 Feels like it's only a matter of time until we see job postings seeking for-loop engineers and variable naming engineers.
 
-Jokes aside, specialisation isn't totally without its merits as it has allowed engineers to build deep expertise in specific technologies, a key component in building quality software. However, it also lead to silos where collaboration and broader product understanding became a nice-to-have and often not even an expectation or focus for engineering roles.
+Jokes aside, specialisation isn't totally without its merits as it has allowed engineers to build deep expertise in specific technologies, a key component in building quality software. However, it also led to silos where collaboration and broader product understanding became a nice-to-have and often not even an expectation or focus for engineering roles.
 
 Product engineers stand as a counter-movement to this trend. They embody a holistic approach to engineering, where understanding the entire product and context around it is just as important as the technical skills required to build it. This broad perspective enables them to bridge gaps between different technical domains and ensure that the product serves its customers effectively.
 
